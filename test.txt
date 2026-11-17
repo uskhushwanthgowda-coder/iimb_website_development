@@ -1,0 +1,1 @@
+Verified folder access. All portfolio files are located in this directory.
